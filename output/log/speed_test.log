@@ -1,1 +1,15 @@
+Name: 湖北卫视, URL: http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub, From: subscribe, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: Cogent, Date: None, Delay: 368 ms, Speed: 14.73 M/s, Resolution: None
 Name: 河南卫视, URL: 239.3.1.50:8184, From: subscribe, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 河南卫视, URL: http://1.94.31.214/php/hntv.php?id=hnws, From: subscribe, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 华为云, Date: None, Delay: 117 ms, Speed: 6.30 M/s, Resolution: None
+Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: 网宿CDN节点, Date: None, Delay: 49 ms, Speed: 2.26 M/s, Resolution: None
+Name: 湖南卫视, URL: http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: 网宿CDN节点, Date: None, Delay: 48 ms, Speed: 1.86 M/s, Resolution: None
+Name: 湖南卫视, URL: http://171.83.103.119:9999/rtp/239.69.1.13:9718, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 480 ms, Speed: 0.14 M/s, Resolution: None
+Name: 湖南卫视, URL: http://171.83.103.119:9999/rtp/239.69.2.34:11358, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 489 ms, Speed: 0.26 M/s, Resolution: None
+Name: 湖南卫视, URL: http://171.83.103.119:9999/rtp/239.69.1.27:9802, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 505 ms, Speed: 0.25 M/s, Resolution: None
+Name: CETV-1, URL: http://171.83.103.119:9999/rtp/239.69.1.110:10298, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 1222 ms, Speed: 0.07 M/s, Resolution: None
+Name: 四川卫视, URL: http://171.83.103.119:9999/rtp/239.69.1.28:9808, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 524 ms, Speed: 0.24 M/s, Resolution: None
+Name: 四川卫视, URL: http://171.83.103.119:9999/rtp/239.69.2.39:11388, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: 459 ms, Speed: 0.10 M/s, Resolution: None
+Name: 新疆卫视, URL: http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd, From: subscribe, IPv_Type: ipv4, Location: 中国-新疆-伊犁哈萨克自治州, ISP: 电信, Date: None, Delay: 4106 ms, Speed: 0.37 M/s, Resolution: None
+Name: CETV-1, URL: http://112.254.55.106:22222/rtp/239.253.254.110:8000, From: subscribe, IPv_Type: ipv4, Location: 中国-山东-青岛, ISP: 联通, Date: None, Delay: 480 ms, Speed: 0.00 M/s, Resolution: None
+Name: CETV-4, URL: http://112.254.55.106:22222/rtp/239.253.254.116:8000, From: subscribe, IPv_Type: ipv4, Location: 中国-山东-青岛, ISP: 联通, Date: None, Delay: 458 ms, Speed: 0.00 M/s, Resolution: None
+Name: 湖南卫视, URL: http://zqh2333.top:2222/rtp/239.94.0.116:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川, ISP: 电信, Date: None, Delay: 734 ms, Speed: 0.11 M/s, Resolution: None
