@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-22 06:27:50,http://74.91.26.218:82/live/cctv1hd.m3u8
+2026-03-22 18:30:23,http://74.91.26.218:82/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
@@ -11,13 +11,13 @@ CCTV-3,http://69.30.245.50/live/cctv3.m3u8
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8
-CCTV-5,http://69.30.245.50/live/cctv5.m3u8
-CCTV-6,http://69.30.245.50/live/cctv6.m3u8
+CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 CCTV-6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
-CCTV-7,http://69.30.245.50/live/cctv7.m3u8
+CCTV-6,http://69.30.245.50/live/cctv6.m3u8
 CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
-CCTV-8,http://69.30.245.50/live/cctv8.m3u8
+CCTV-7,http://69.30.245.50/live/cctv7.m3u8
 CCTV-8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
+CCTV-8,http://69.30.245.50/live/cctv8.m3u8
 CCTV-9,http://69.30.245.50/live/cctv9.m3u8
 CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2966e9c9d715bc042002ae640f2b63e0
 CCTV-10,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
@@ -35,20 +35,22 @@ CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=5
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=7
 湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
 北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 东方卫视,http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
-东南卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=cf56ef991774140460
+东南卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=523344e11774180398
 广西卫视,http://107.150.60.122/live/gxwshd.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://113.96.132.86/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=6a2be9c279676a81c6738c62eef99e79&wsTime=1774185725&wsSession=51374d4cbad3ae01fd129b3b-177417397444358&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsBindIP=2&wsserid=1168290946500470439
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 陕西卫视,http://stream.snrtv.com/sxbc-star-moEFIP.m3u8
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
 三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
 新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
+新疆卫视,https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1774177618-1-1-2f2ad7ec52368da30a3a8902bb598947&aliyun_uuid=c378a92f-c211-43f8-8909-b295e1d5f343
 云南卫视,http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 
@@ -62,3 +64,4 @@ CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 广东民生,http://119.32.12.17:2901/udp/224.1.100.4:11111
 大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
+广州竞赛,http://8.138.7.223/tv/gzjs.m3u8
