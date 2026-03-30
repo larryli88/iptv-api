@@ -34,20 +34,12 @@ CCTV-4K,rtp://239.3.1.245:2000
 武侠剧场,rtp://239.3.1.90:4120
 喜剧影院,rtp://239.3.1.91:4120
 ,动作影院,rtp://239.3.1.92:4120
-CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 家庭影院,rtp://239.3.1.93:4120
-CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 星影高清,rtp://239.3.1.94:4120
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
 光影高清,rtp://239.3.1.84:4120
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
 动画高清,rtp://239.3.1.80:4120
-免费订阅：请勿贩卖...,https://epg-1.iill.top/v/302.mp4
-维护时间：2025-1-15#佛系维护...,https://epg-1.iill.top/v/301.mp4
 经典电影,rtp://239.3.1.195:9024
-维护内容：维护 Gather「删除 •IPV6 源」,https://epg-1.iill.top/v/302.mp4
 group-title="数字" zz-definition="HD",重温经典,rtp://239.3.1.25:8001
-公告说明：IPV6 暂无,https://epg-1.iill.top/v/301.mp4
-CGTN阿语,https://0472.org/hls/cgtna.m3u8
-2026-03-18 17:06:25,https://iptv.catvod.com/live.php?id=CCTV1&line=4
 热播剧场,rtp://239.3.1.194:9020
+魅力时尚,rtp://239.3.1.196:9012
+少儿动画,rtp://239.3.1.199:9000
