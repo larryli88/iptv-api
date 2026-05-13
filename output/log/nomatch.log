@@ -1,17 +1,31 @@
 CCTV-4K,rtp://239.3.1.245:2000
+2026-05-07 17:40:33,https://iptv.catvod.com/live.php?id=CCTV1&line=4
 北京文艺,rtp://239.3.1.242:8000
+文化精品,http://107.150.60.122/live/ysjp.m3u8
 体育休闲,rtp://239.3.1.243:8000
+文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 北京影视,rtp://239.3.1.158:8000
+央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 北京新闻,rtp://239.3.1.159:8000
+风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 北京财经,rtp://239.3.1.116:8000
+第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 北京生活,rtp://239.3.1.117:8000
+风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 北京国际,rtp://239.3.1.235:8000
+怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 纪实科教,rtp://239.3.1.115:8000
+女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 卡酷少儿,rtp://239.3.1.189:8000
+高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 兵团卫视,rtp://239.3.1.168:8196
+风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 CGTN英语,rtp://239.3.1.215:4220
+电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
 CGTN纪录,rtp://239.3.1.216:4220
+世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 CGTN西语,rtp://239.3.1.217:4220
+兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 CGTN法语,rtp://239.3.1.218:4220
 CGTN阿语,rtp://239.3.1.219:4220
 CGTN俄语,rtp://239.3.1.220:4220
@@ -43,3 +57,4 @@ group-title="数字" zz-definition="HD",重温经典,rtp://239.3.1.25:8001
 魅力时尚,rtp://239.3.1.196:9012
 少儿动画,rtp://239.3.1.199:9000
 动画高清,rtp://239.3.1.80:4120
+浙江钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
