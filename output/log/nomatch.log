@@ -1,45 +1,30 @@
 CCTV-4K,rtp://239.3.1.245:2000
+ABN China (720p),https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 北京文艺,rtp://239.3.1.242:8000
+Ando TV (1080p),http://play.kankanlive.com/live/1711956137852982.m3u8
+Angel TV Chinese (720p),https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
+Anshun Comprehensive News Channel,https://hplayer1.juyun.tv/camera/154379194.m3u8
+Bread TV面包台 (720p),https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+BRTV Kaku Childrens Channel,http://49.113.179.174:4022/udp/238.125.2.216:5140
 体育休闲,rtp://239.3.1.243:8000
+BRTV Science & Education Channel,http://49.113.179.174:4022/udp/238.125.3.121:5140
 北京影视,rtp://239.3.1.158:8000
+BRTV 北京卫视 (1080p),http://go.bkpcp.top/mg/bjws
 北京新闻,rtp://239.3.1.159:8000
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 北京财经,rtp://239.3.1.116:8000
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 北京生活,rtp://239.3.1.117:8000
+延边卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+免费订阅：请勿贩卖...,https://epg.yang-1989.eu.org/v/302.mp4
 北京国际,rtp://239.3.1.235:8000
+康巴卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV-Culture of Quality (1080p),http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+CCTV-4K,rtp://239.3.1.245:2000
+维护时间：2025-1-15#佛系维护...,https://epg.yang-1989.eu.org/v/301.mp4
 纪实科教,rtp://239.3.1.115:8000
-卡酷少儿,rtp://239.3.1.189:8000
-兵团卫视,rtp://239.3.1.168:8196
-CGTN英语,rtp://239.3.1.215:4220
-CGTN纪录,rtp://239.3.1.216:4220
-CGTN西语,rtp://239.3.1.217:4220
-CGTN法语,rtp://239.3.1.218:4220
-CGTN阿语,rtp://239.3.1.219:4220
-CGTN俄语,rtp://239.3.1.220:4220
-中国教育,rtp://239.3.1.57:8152
-中国交通,rtp://239.3.1.188:8001
-中国天气,rtp://239.3.1.165:8001
-四海钓鱼,rtp://239.3.1.164:8001
-金鹰纪实,rtp://239.3.1.58:8156
-证券服务,rtp://239.3.1.24:8001
-睛彩竞技,rtp://239.3.1.125:8001
-睛彩篮球,rtp://239.3.1.126:8001
-睛彩青少,rtp://239.3.1.127:8001
-睛彩广场舞,rtp://239.3.1.128:8001
-爱上4K,rtp://239.3.1.236:2000
-4K超清,rtp://239.3.1.249:8001
-城市剧场,rtp://239.3.1.67:4120
-军旅剧场,rtp://239.3.1.68:4120
-古装剧场,rtp://239.3.1.69:4120
-精选高清,rtp://239.3.1.74:4120
-武侠剧场,rtp://239.3.1.90:4120
-喜剧影院,rtp://239.3.1.91:4120
-,动作影院,rtp://239.3.1.92:4120
-家庭影院,rtp://239.3.1.93:4120
-星影高清,rtp://239.3.1.94:4120
-光影高清,rtp://239.3.1.84:4120
-经典电影,rtp://239.3.1.195:9024
-group-title="数字" zz-definition="HD",重温经典,rtp://239.3.1.25:8001
-热播剧场,rtp://239.3.1.194:9020
-魅力时尚,rtp://239.3.1.196:9012
-少儿动画,rtp://239.3.1.199:9000
-动画高清,rtp://239.3.1.80:4120
+CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+CCTV-Golf & Tennis (1080p),http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+北京文艺,rtp://239.3.1.242:8000
