@@ -1,40 +1,37 @@
 🕘️更新时间,#genre#
-2026-06-03 22:40:41,http://74.91.26.218:82/live/cctv3hd.m3u8
+2026-06-04 07:44:47,http://74.91.26.218:82/live/cctv3hd.m3u8
 
 📺央视频道,#genre#
 CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1780549200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-dd29589985d12d61afeca04889a58e77&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1780549200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-333f67123c0e1128e45a46515c4e6259&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1780581600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-f313bb11aa5a90f0aca6f1a4fc3dd15c&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
-CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=64acc230b35c8a96e07c80473c99e169
-CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=0b770dead574d9d749a0517d293acde7
+CCTV-8,http://124.116.183.146:9901/tsfile/live/0008_1.m3u8
+CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=f87dbd0e3e2aeb38520b0cd5e990503c
+CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=6bbee47472d1a735fe3a4552c04c6377
 CCTV-10,http://74.91.26.218:82/live/cctv10hd.m3u8
 CCTV-11,http://74.91.26.218:82/live/cctv11hd.m3u8
 CCTV-12,http://74.91.26.218:82/live/cctv12hd.m3u8
 
 📡卫视频道,#genre#
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
-浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1780495112-0ac6806e12a72259d71e2e0880f59ae2-0-15c45a1abbe5026e375a45f94811d8f9
 北京卫视,https://iptv.catvod.com/catvod?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=6
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-贵州卫视,http://61.136.172.236:9901/tsfile/live/0120_1.m3u8
-河北卫视,http://123.130.84.106:8154/tsfile/live/0117_1.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://113.96.145.61/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=cd14ba6a8267da8d229d91d84fc8c5a3&wsTime=1780506728&wsSession=1ffe9e5937acd96ac32cbee6-178049564199154&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsBindIP=2&wsserid=1168295652121727136
-江西卫视,http://61.136.172.236:9901/tsfile/live/0138_1.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-vwCJS2.m3u8
+河南卫视,http://113.96.145.61/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=4bca6619a7576fe13d1b049d09dbeb0a&wsTime=1780539545&wsSession=1ffe9e5937acd96ac32cbee6-178052800924641&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsBindIP=2&wsserid=1168295652121727136
+山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/22sqoR0.m3u8
+陕西卫视,http://stream.snrtv.com/sxbc-star-ehQTU4.m3u8
 三沙卫视,https://iptv.catvod.com/live.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&line=3
 三沙卫视,https://iptv.catvod.com/live.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&line=2
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
-云南卫视,http://123.130.84.106:8154/tsfile/live/0119_1.m3u8
 
 ☘️广东频道,#genre#
 广东珠江,https://iptv.catvod.com/catvod?id=%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F&line=2
 广东体育,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
 广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
-大湾区卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86
 大湾区卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&line=2
+大湾区卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&line=3
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
