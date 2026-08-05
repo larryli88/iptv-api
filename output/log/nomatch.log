@@ -1,45 +1,25 @@
-CCTV-4K,rtp://239.3.1.245:2000
-北京文艺,rtp://239.3.1.242:8000
-体育休闲,rtp://239.3.1.243:8000
-北京影视,rtp://239.3.1.158:8000
-北京新闻,rtp://239.3.1.159:8000
-北京财经,rtp://239.3.1.116:8000
-北京生活,rtp://239.3.1.117:8000
-北京国际,rtp://239.3.1.235:8000
-纪实科教,rtp://239.3.1.115:8000
-卡酷少儿,rtp://239.3.1.189:8000
-兵团卫视,rtp://239.3.1.168:8196
-CGTN英语,rtp://239.3.1.215:4220
-CGTN纪录,rtp://239.3.1.216:4220
-CGTN西语,rtp://239.3.1.217:4220
-CGTN法语,rtp://239.3.1.218:4220
-CGTN阿语,rtp://239.3.1.219:4220
-CGTN俄语,rtp://239.3.1.220:4220
-中国教育,rtp://239.3.1.57:8152
-中国交通,rtp://239.3.1.188:8001
-中国天气,rtp://239.3.1.165:8001
-四海钓鱼,rtp://239.3.1.164:8001
-金鹰纪实,rtp://239.3.1.58:8156
-证券服务,rtp://239.3.1.24:8001
-睛彩竞技,rtp://239.3.1.125:8001
-睛彩篮球,rtp://239.3.1.126:8001
-睛彩青少,rtp://239.3.1.127:8001
-睛彩广场舞,rtp://239.3.1.128:8001
-爱上4K,rtp://239.3.1.236:2000
-4K超清,rtp://239.3.1.249:8001
-城市剧场,rtp://239.3.1.67:4120
-军旅剧场,rtp://239.3.1.68:4120
-古装剧场,rtp://239.3.1.69:4120
-精选高清,rtp://239.3.1.74:4120
-武侠剧场,rtp://239.3.1.90:4120
-喜剧影院,rtp://239.3.1.91:4120
-,动作影院,rtp://239.3.1.92:4120
-家庭影院,rtp://239.3.1.93:4120
-星影高清,rtp://239.3.1.94:4120
-光影高清,rtp://239.3.1.84:4120
-经典电影,rtp://239.3.1.195:9024
-group-title="数字" zz-definition="HD",重温经典,rtp://239.3.1.25:8001
-热播剧场,rtp://239.3.1.194:9020
-魅力时尚,rtp://239.3.1.196:9012
-少儿动画,rtp://239.3.1.199:9000
-动画高清,rtp://239.3.1.80:4120
+ABN China (720p),https://mediaserver.abnvideos.com/streams/abnchina.m3u8
+Ando TV (1080p),http://play.kankanlive.com/live/1711956137852982.m3u8
+Angel TV Chinese (720p),https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
+Anhui TV,https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
+Anshun Comprehensive News Channel,https://hplayer1.juyun.tv/camera/154379194.m3u8
+Bread TV面包台 (720p),https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+BRTV Kaku Childrens Channel,http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
+免费订阅：请勿贩卖...,https://material.yang-1989.xyz/v/302.mp4
+BRTV 北京卫视 (1080p),http://go.bkpcp.top/mg/bjws
+维护时间：2025-1-15#佛系维护...,https://material.yang-1989.xyz/v/301.mp4
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+维护内容：维护 Gather「删除 •IPV6 源」,https://material.yang-1989.xyz/v/302.mp4
+CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+公告说明：IPV6 暂无,https://material.yang-1989.xyz/v/301.mp4
+CCTV-Culture of Quality (1080p),http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+晴彩广场舞「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
+CCTV-Golf & Tennis (1080p),http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+晴彩少年「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
+CCTV-Health (1080p),http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+晴彩竞技「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
+CCTV-Nostalgia Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+晴彩篮球「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
+CCTV-Storm Football (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+咪咕直播 𝟜𝕂-𝟙「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
