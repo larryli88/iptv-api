@@ -1,14 +1,14 @@
 🕘️更新时间,#genre#
-2026-09-05 07:47:17,http://107.150.60.122/live/cctv2hd.m3u8
+2026-09-05 21:18:10,http://107.150.60.122/live/cctv2hd.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://107.150.60.122/live/cctv2hd.m3u8
 CCTV-3,http://107.150.60.122/live/cctv3hd.m3u8
 CCTV-4,http://207.56.13.146:81/cdnlive/cctv4.m3u8
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1788580800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-31b441148d1f6f5fb62327231e0ef85c&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1788616800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-c9f3f4dc1df9216f93c35c4e275777ec&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-5,http://107.150.60.122/live/cctv5hd.m3u8
-CCTV-7,http://207.56.13.146:81/cdnlive/cctv7.m3u8
 CCTV-7,http://107.150.60.122/live/cctv7hd.m3u8
+CCTV-7,http://207.56.13.146:81/cdnlive/cctv7.m3u8
 CCTV-8,http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
 CCTV-9,http://107.150.60.122/live/cctv9hd.m3u8
 CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=94c34211e7746de0f7ec65a34f0bf79b
@@ -18,8 +18,8 @@ CCTV-12,http://107.150.60.122/live/cctv12hd.m3u8
 CCTV-15,http://204.12.221.218:8181/3m1080p/cctv15.m3u8
 CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.151:8144
 CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
-CETV-3,http://198.204.228.26/live/cetv3.m3u8
 CETV-3,http://107.150.60.122/live/cetv3.m3u8
+CETV-3,http://198.204.228.26/live/cetv3.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://107.150.60.122/live/gdwshd.m3u8
@@ -41,8 +41,8 @@ CETV-3,http://107.150.60.122/live/cetv3.m3u8
 青海卫视,http://107.150.60.122/live/qhws.m3u8
 四川卫视,http://107.150.60.122/live/scwshd.m3u8
 深圳卫视,http://107.150.60.122/live/szwshd.m3u8
-三沙卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws
-三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
+三沙卫视,http://107.150.60.122/live/ssws.m3u8
+三沙卫视,http://198.204.228.26/live/ssws.m3u8
 天津卫视,http://107.150.60.122/live/tjwshd.m3u8
 云南卫视,http://107.150.60.122/live/ynwshd.m3u8
 
@@ -52,6 +52,6 @@ CETV-3,http://107.150.60.122/live/cetv3.m3u8
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
 广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
 大湾区卫视,http://107.150.60.122/live/nfws.m3u8
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=e381ab098841a0badbf7e11f24143cf7&txTime=18e6ff43701
+广州综合,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 广州竞赛,http://8.138.7.223/tv/gzjs.m3u8
