@@ -1,14 +1,14 @@
 🕘️更新时间,#genre#
-2026-09-07 07:33:25,http://107.150.60.122/live/cctv2hd.m3u8
+2026-09-07 23:33:37,http://107.150.60.122/live/cctv2hd.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://107.150.60.122/live/cctv2hd.m3u8
 CCTV-3,http://107.150.60.122/live/cctv3hd.m3u8
 CCTV-4,http://207.56.13.146:81/cdnlive/cctv4.m3u8
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1788789600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-df3b5c7106777c88110bd951cfb911b7&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1788847200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-6cc7bf1adc61a9c32fb6608aa7309d73&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-5,http://107.150.60.122/live/cctv5hd.m3u8
-CCTV-7,http://207.56.13.146:81/cdnlive/cctv7.m3u8
 CCTV-7,http://107.150.60.122/live/cctv7hd.m3u8
+CCTV-7,http://207.56.13.146:81/cdnlive/cctv7.m3u8
 CCTV-9,http://107.150.60.122/live/cctv9hd.m3u8
 CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=57949f1c1997350151eedd617f2eb21d
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
@@ -27,7 +27,6 @@ CETV-3,http://107.150.60.122/live/cetv3.m3u8
 北京卫视,http://107.150.60.122/live/bjwshd.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 黑龙江卫视,http://107.150.60.122/live/hljwshd.m3u8
-黑龙江卫视,http://file.lpsntv.com/nmip-media/channellive/channel110181/playlist.m3u8
 贵州卫视,http://107.150.60.122/live/gzwshd.m3u8
 河南卫视,http://107.150.60.122/live/hawshd.m3u8
 河南卫视,http://111.59.139.82:11888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -49,6 +48,6 @@ CETV-3,http://107.150.60.122/live/cetv3.m3u8
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
 广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
 大湾区卫视,http://107.150.60.122/live/nfws.m3u8
-广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
+广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 广州竞赛,http://8.138.7.223/tv/gzjs.m3u8
