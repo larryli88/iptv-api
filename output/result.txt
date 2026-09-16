@@ -1,22 +1,21 @@
 🕘️更新时间,#genre#
-2026-09-15 22:41:12,http://107.150.60.122/live/cctv2hd.m3u8
+2026-09-16 08:00:39,http://107.150.60.122/live/cctv2hd.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://107.150.60.122/live/cctv2hd.m3u8
 CCTV-3,http://107.150.60.122/live/cctv3hd.m3u8
 CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1789534800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-2d67cf3631b8726496eceafcaea2c54e&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1789484400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-14b19460b211e8d35d99d2c92c3ffce7&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1789567200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-7e286bf658b737c1f01ea30c854d5fed&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-5,http://107.150.60.122/live/cctv5hd.m3u8
 CCTV-7,http://107.150.60.122/live/cctv7hd.m3u8
-CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=80186e83ed8c25e7949d65cd0d28511b
-CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=a5ad6171edcc2ca6e5cca0af82b3beb2
+CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=f2952618071f8055521af50cb0b268e3
+CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=12743f9f304237d6c5a9824086dd9240
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 CCTV-10,https://hwapi.yntv.net/62hdvf/utrat7.m3u8
 CCTV-12,http://107.150.60.122/live/cctv12hd.m3u8
-CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.151:8144
 CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
-CETV-3,http://198.204.228.26/live/cetv3.m3u8
 CETV-3,http://107.150.60.122/live/cetv3.m3u8
+CETV-3,http://198.204.228.26/live/cetv3.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://107.150.60.122/live/gdwshd.m3u8
@@ -35,8 +34,8 @@ CETV-3,http://107.150.60.122/live/cetv3.m3u8
 青海卫视,http://107.150.60.122/live/qhws.m3u8
 四川卫视,http://107.150.60.122/live/scwshd.m3u8
 深圳卫视,http://107.150.60.122/live/szwshd.m3u8
+三沙卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws
 三沙卫视,http://107.150.60.122/live/ssws.m3u8
-三沙卫视,http://198.204.228.26/live/ssws.m3u8
 天津卫视,http://107.150.60.122/live/tjwshd.m3u8
 云南卫视,http://107.150.60.122/live/ynwshd.m3u8
 
@@ -47,5 +46,5 @@ CETV-3,http://107.150.60.122/live/cetv3.m3u8
 广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
 大湾区卫视,http://107.150.60.122/live/nfws.m3u8
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
+广州综合,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 广州竞赛,http://8.138.7.223/tv/gzjs.m3u8
